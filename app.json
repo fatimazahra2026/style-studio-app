@@ -1,4 +1,23 @@
-"android": {
+{
+  "expo": {
+    "name": "Fatima Zahra Style Studio",
+    "slug": "fatima-zahra-style-studio",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -6,3 +25,12 @@
       "package": "com.fatimazahra.stylestudio"
     },
     "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ff9b4f0a-8f57-475f-979e-0ccb1ee21964"
+      }
+    }
+  }
+}
