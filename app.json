@@ -18,6 +18,11 @@
       },
       "package": "com.fatimazahra.stylestudio"
     },
+    "extra": {
+      "eas": {
+        "projectId": "8e9bcf2e-98b3-4d77-9cf5-08f3f29f17c1"
+      }
+    },
     "web": {
       "favicon": "./assets/favicon.png"
     }
