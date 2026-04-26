@@ -1,26 +1,22 @@
 {
   "expo": {
-    "name": "juicy-indigo-soda",
-    "slug": "snack-fd4eb830-ddf9-4dc1-8bf5-b16c9b1d037c",
+    "name": "Fatima Zahra Style Studio",
+    "slug": "fatima-zahra-style-studio",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "package": "com.fatimazahra.stylestudio"
     },
     "web": {
       "favicon": "./assets/favicon.png"
